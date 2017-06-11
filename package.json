@@ -1,16 +1,16 @@
 {
   "name": "pambda-cookie",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cookie parsing pambda",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
-    "url": "https://github.com/nak2k/pambda-cookie/issues"
+    "url": "https://github.com/pambda/pambda-cookie/issues"
   },
   "dependencies": {
     "cookie": "^0.3.1"
   },
   "devDependencies": {},
-  "homepage": "https://github.com/nak2k/pambda-cookie",
+  "homepage": "https://github.com/pambda/pambda-cookie",
   "keywords": [
     "aws",
     "lambda",
@@ -21,7 +21,7 @@
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nak2k/pambda-cookie.git"
+    "url": "git+https://github.com/pambda/pambda-cookie.git"
   },
   "scripts": {},
   "files": [
