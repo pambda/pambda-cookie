@@ -7,12 +7,12 @@
     "url": "https://github.com/pambda/pambda-cookie/issues"
   },
   "dependencies": {
-    "caseless-get": "0.0.1",
+    "caseless-get": "0.0.3",
     "cookie": "^0.3.1"
   },
   "devDependencies": {
-    "eslint": "^4.5.0",
-    "tape": "^4.8.0"
+    "eslint": "^4.18.2",
+    "tape": "^4.9.0"
   },
   "homepage": "https://github.com/pambda/pambda-cookie",
   "keywords": [
