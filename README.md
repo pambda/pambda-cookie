@@ -5,14 +5,14 @@ Cookie parser for [Pambda](https://github.com/pambda/pambda).
 ## Installation
 
 ```
-npm i pambda-cookie -S
+npm i pambda-cookie
 ```
 
 ## Usage
 
 ``` javascript
-import { compose, createLambda } from 'pambda';
-import { cookie } from 'pambda-cookie';
+const { compose, createLambda } = require('pambda');
+const { cookie } = require('pambda-cookie');
 
 export const handler = createLambda(
   compose(
