@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "caseless-get": "^0.1.0",
-    "cookie": "^0.4.1",
+    "cookie": "^0.7.0",
     "lambda-callbackify": "^0.1.1"
   },
   "devDependencies": {
